@@ -8,9 +8,9 @@ l=int(floor(raiz))#Determinar linha
 c=int(ceil(raiz))#Determinar coluna
 while l*c<t:
     if l<c:
-        linha+=1
+        l+=1
     else:
-        coluna+=1
+        c+=1
 a+= ((l*c-t)*" ")
 grid=[]
 for i in range(l):
