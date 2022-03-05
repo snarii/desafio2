@@ -15,5 +15,5 @@ Dado um vetor de inteiros n e um inteiro qualquer x. Construa um algoritmo que d
   ##### * Se certifique de que linhas x colunas >=T.
   ##### * Se múltiplos grids satisfazem as condições, escolha aquele com a menor área.
 Escreva um algoritmo que ao receber uma string s, mostre a mensagem encriptada de acordo com as regras descritas.
-> Foi preciso utilizar "import.
+> Foi preciso utilizar "import.import sys" para otimizar a leitura da mensagem encriptada e "from math import floor, ceil" para as operações matemáticas, como no caso da questão, o uso da raiz do tamanho e o arredondamento "floor" e "ceil".
 * ##### [**Resolução da Questão 3**](https://replit.com/join/kexsyrobnb-sarahcosta2)
