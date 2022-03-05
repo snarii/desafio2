@@ -11,7 +11,8 @@ Dado um vetor de inteiros n e um inteiro qualquer x. Construa um algoritmo que d
 #### Questão 03 
 ##### Um texto precisa ser encriptado usando o seguinte esquema. Primeiro, os espaços são removidos do texto. Então, os caracteres são escritos em um grid, no qual as linhas e colunas tem as seguintes regras:
 ![image](https://user-images.githubusercontent.com/100108863/156894404-122bf2bd-63be-46e6-845e-0cd2da7877bc.png)
-Considere T, como o tamanho do texto.
-Se certifique de que linhas x colunas >= .
-Se múltiplos grids satisfazem as condições, escolha aquele com a menor área.
+ - Considere T, como o tamanho do texto.
+ - Se certifique de que linhas x colunas >=T.
+ - Se múltiplos grids satisfazem as condições, escolha aquele com a menor área.
 Escreva um algoritmo que ao receber uma string s, mostre a mensagem encriptada de acordo com as regras descritas.
+* ##### [**Resolução da Questão 3**](https://replit.com/join/zpbdxmzkxu-sarahcosta2)
