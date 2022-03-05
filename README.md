@@ -6,4 +6,5 @@
 * ##### [**Resolução da Questão 1**](https://replit.com/join/nhldiglpzo-sarahcosta2)
 #### Questão 02
 Dado um vetor de inteiros n e um inteiro qualquer x. Construa um algoritmo que determine o número de elementos pares do vetor que tem uma diferença igual ao valor de x.
+> Foi preciso estabelecer uma lista e o valor x (a diferença dos pares)
 * ##### [**Resolução da Questão 2**](https://replit.com/join/zpbdxmzkxu-sarahcosta2)
